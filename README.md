@@ -1,5 +1,3 @@
-# 👋 Hey, I'm Bader
-
 I'm a Computing Science student at the University of Alberta, passionate about building scalable backend systems that blend AI and cloud infrastructure.  
 
 I enjoy solving problems through automation and performance optimization.  
