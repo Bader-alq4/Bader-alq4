@@ -9,7 +9,7 @@ I enjoy solving problems through automation and performance optimization.
 ### Projects
 
 **[NextUp Showcase](https://github.com/Bader-alq4/next-up-showcase)**  
-Full-stack basketball tryout platform with authentication, payments, and admin tools.  
+Demo version of my tryout platform with authentication, payments, and admin tools.  
 *Next.js · Express · PostgreSQL · Stripe*
 
 **[Resume Skill Gap Analyzer](https://github.com/Bader-alq4/resume-skill-gap)**  
