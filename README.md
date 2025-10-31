@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hey, I'm Bader
 
-<!--
-**Bader-alq4/Bader-alq4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computing Science student at the University of Alberta, passionate about building scalable backend systems that blend AI and cloud infrastructure.
+I enjoy solving problems through automation and performance optimization.
+---
 
-Here are some ideas to get you started:
+### Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**[🏀 NextUp Showcase](https://github.com/Bader-alq4/next-up-showcase)** — Full-stack basketball tryout platform with authentication, payments, and admin tools.  
+*Next.js · Express · PostgreSQL · Stripe*
+
+**[🧠 Resume Skill Gap Analyzer](https://github.com/Bader-alq4/resume-skill-gap)** — AI-powered resume analyzer that detects missing skills and suggests learning paths.  
+*Python · FastAPI · Docker · Azure*
+
+---
+
+### Connect
+
+📫 [LinkedIn](https://linkedin.com/in/bader-al-qasem) · [Email](mailto:baderalq774@gmail.com)
