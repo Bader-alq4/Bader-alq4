@@ -1,4 +1,4 @@
-# Hey, I'm Bader!
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi%2C+I%27m+Bader!;The+bug+was+me;It+compiled+yesterday;The+cloud+charges+me+for+my+mistakes;Segfaults+keep+me+humble)](https://git.io/typing-svg)
 
 I'm a Computing Science student at the University of Alberta, passionate about building scalable backend systems that blend AI and cloud infrastructure.  
 
