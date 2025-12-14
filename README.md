@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?typeSpeed=100&pause=100&lines=Hi%2C+I%27m+Bader!;Error:+The+bug+was+me;Error:+Segfaults+keep+me+humble;Error:+It+compiled+yesterday)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?typeSpeed=100&pause=100&lines=Hi%2C+I%27m+Bader!!;Error:+The+bug+was+me;Error:+Segfaults+keep+me+humble;Error:+It+compiled+yesterday)](https://git.io/typing-svg)
 
 I'm a Computing Science student at the University of Alberta, passionate about building scalable backend systems that blend AI and cloud infrastructure.  
 
