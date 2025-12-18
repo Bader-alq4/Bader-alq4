@@ -6,15 +6,15 @@ I'm a Computing Science student at the University of Alberta, passionate about b
 
 ### Projects
 
-**[NextUp Showcase](https://github.com/Bader-alq4/next-up-showcase)**  
+### [NextUp Showcase](https://github.com/Bader-alq4/next-up-showcase) 
 Demo version of my tryout platform with authentication, payments, and admin tools.  
 *Next.js · Express · PostgreSQL · Stripe*
 
-**[Resume Skill Gap Analyzer](https://github.com/Bader-alq4/resume-skill-gap)**  
+### [Resume Skill Gap Analyzer](https://github.com/Bader-alq4/resume-skill-gap)  
 AI-powered resume analyzer that detects missing skills and suggests learning paths using job descriptions.  
 *Python · FastAPI · Docker · Azure · OpenAI · Sentence-BERT*
 
-## [Custom Memory Allocator](https://github.com/Bader-alq4/malloc)  
+### [Custom Memory Allocator](https://github.com/Bader-alq4/malloc)  
 Implemented a custom `malloc`/`free` allocator in C with heap expansion, block splitting, and coalescing.  
 Designed dual linked-list structures (heap list + free list) for efficient memory reuse and organization, with randomized stress tests to verify correctness.  
 *C · Systems Programming · Memory Management*
