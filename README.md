@@ -2,8 +2,6 @@
 
 I'm a Computing Science student at the University of Alberta, passionate about building scalable backend systems that blend AI, systems programming, and cloud infrastructure.
 
-I enjoy solving problems through automation, performance optimization, and low-level systems design.
-
 ---
 
 ### Projects
