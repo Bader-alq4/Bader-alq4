@@ -14,15 +14,10 @@ Demo version of my tryout platform with authentication, payments, and admin tool
 AI-powered resume analyzer that detects missing skills and suggests learning paths using job descriptions.  
 *Python · FastAPI · Docker · Azure · OpenAI · Sentence-BERT*
 
-**[Custom Memory Allocator](https://github.com/Bader-alq4/custom-memory-allocator)**  
+**[Custom Memory Allocator](https://github.com/Bader-alq4/malloc)**  
 Implemented a custom `malloc`/`free` allocator in C with heap expansion, block splitting, and coalescing.  
 Designed dual linked-list structures (heap list + free list) for efficient memory reuse and organization, with randomized stress tests to verify correctness.  
 *C · Systems Programming · Memory Management*
-
-**[Event Lottery App](https://github.com/Bader-alq4/event-lottery-app)**  
-Android application built in a 6-person Agile team supporting Entrant, Organizer, and Admin roles.  
-Implemented core features with Firebase backend, followed GitHub-based sprint workflows, and wrote JUnit and Espresso tests to validate user flows.  
-*Java · Android · Firebase · Agile · Testing*
 
 ---
 
