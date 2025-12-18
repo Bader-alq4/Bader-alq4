@@ -19,9 +19,9 @@ Implemented a custom `malloc`/`free` allocator in C with heap expansion, block s
 Designed dual linked-list structures (heap list + free list) for efficient memory reuse and organization, with randomized stress tests to verify correctness.  
 *C · Systems Programming · Memory Management*
 
-**[Event Lottery App](https://github.com/CMPUT301-Sulfur/sulfur-events.git)**
+### [Event Lottery App](https://github.com/CMPUT301-Sulfur/sulfur-events.git)
 Android application developed in a 6-person Agile team supporting Entrant, Organizer, and Admin roles.  
-Implemented Firebase-backed features and comprehensive unit and UI testing.  
+Implemented Firebase-backed features along with comprehensive unit and UI testing.  
 **Tech:** Java, Android, Firebase, JUnit, Espresso
 
 ---
