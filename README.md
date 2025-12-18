@@ -1,8 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?typeSpeed=100&pause=100&lines=Hi%2C+I%27m+Bader!!;Error:+The+bug+was+me;Error:+Segfaults+keep+me+humble;Error:+It+compiled+yesterday)](https://git.io/typing-svg)
 
-I'm a Computing Science student at the University of Alberta, passionate about building scalable backend systems that blend AI and cloud infrastructure.  
+I'm a Computing Science student at the University of Alberta, passionate about building scalable backend systems that blend AI, systems programming, and cloud infrastructure.
 
-I enjoy solving problems through automation and performance optimization.  
+I enjoy solving problems through automation, performance optimization, and low-level systems design.
 
 ---
 
@@ -13,12 +13,20 @@ Demo version of my tryout platform with authentication, payments, and admin tool
 *Next.js · Express · PostgreSQL · Stripe*
 
 **[Resume Skill Gap Analyzer](https://github.com/Bader-alq4/resume-skill-gap)**  
-AI-powered resume analyzer that detects missing skills and suggests learning paths.  
-*Python · FastAPI · Docker · Azure*
+AI-powered resume analyzer that detects missing skills and suggests learning paths using job descriptions.  
+*Python · FastAPI · Docker · Azure · OpenAI · Sentence-BERT*
+
+**[Custom Memory Allocator](https://github.com/Bader-alq4/custom-memory-allocator)**  
+Implemented a custom `malloc`/`free` allocator in C with heap expansion, block splitting, and coalescing.  
+Designed dual linked-list structures (heap list + free list) for efficient memory reuse and organization, with randomized stress tests to verify correctness.  
+*C · Systems Programming · Memory Management*
+
+**[Event Lottery App](https://github.com/Bader-alq4/event-lottery-app)**  
+Android application built in a 6-person Agile team supporting Entrant, Organizer, and Admin roles.  
+Implemented core features with Firebase backend, followed GitHub-based sprint workflows, and wrote JUnit and Espresso tests to validate user flows.  
+*Java · Android · Firebase · Agile · Testing*
 
 ---
 
-### 🌐 Connect
+### Connect
 [LinkedIn](https://linkedin.com/in/bader-al-qasem) · [Email](mailto:baderalq774@gmail.com)
-
----
