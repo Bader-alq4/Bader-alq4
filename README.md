@@ -11,7 +11,7 @@ Demo version of my tryout platform with authentication, payments, and admin tool
 *Next.js · Express · PostgreSQL · Stripe*
 
 ## [Next Up Hoops Frontend](https://github.com/Bader-alq4/nxt_up_frontend) 
-Production frontend for a real-world youth basketball organization with responsive layouts and API integration.  
+Production frontend for the official Next Up Hoops platform with responsive layouts and API integration.  
 *React · Vite · React Router · Framer Motion · Cloudinary*
 
 ## [Resume Skill Gap Analyzer](https://github.com/Bader-alq4/resume-skill-gap)  
