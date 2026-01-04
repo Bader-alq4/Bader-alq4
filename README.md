@@ -6,9 +6,13 @@ I'm a Computing Science student at the University of Alberta, passionate about b
 
 ### Projects
 
-## [NextUp Showcase](https://github.com/Bader-alq4/next-up-showcase) 
+## [Next Up Hoops Backend Showcase](https://github.com/Bader-alq4/next-up-showcase) 
 Demo version of my tryout platform with authentication, payments, and admin tools.  
 *Next.js · Express · PostgreSQL · Stripe*
+
+## [Next Up Hoops Frontend](https://github.com/Bader-alq4/nxt_up_frontend) 
+Production frontend for a youth basketball tryout and registration platform with responsive layouts and API integration.  
+*React · Vite · React Router · Framer Motion · Cloudinary*
 
 ## [Resume Skill Gap Analyzer](https://github.com/Bader-alq4/resume-skill-gap)  
 AI-powered resume analyzer that detects missing skills and suggests learning paths using job descriptions.  
