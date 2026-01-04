@@ -26,7 +26,7 @@ Designed dual linked-list structures (heap list + free list) for efficient memor
 ## [Event Lottery App](https://github.com/CMPUT301-Sulfur/sulfur-events.git)
 Android application developed in a 6-person Agile team supporting Entrant, Organizer, and Admin roles.  
 Implemented Firebase-backed features along with comprehensive unit and UI testing.  
-**Tech:** Java, Android, Firebase, JUnit, Espresso
+*Java · Android · Firebase · JUnit · Espresso
 
 ---
 
