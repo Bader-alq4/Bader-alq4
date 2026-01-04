@@ -30,5 +30,5 @@ Implemented Firebase-backed features along with comprehensive unit and UI testin
 
 ---
 
-### Connect
+### Connect With Me!
 [LinkedIn](https://linkedin.com/in/bader-al-qasem) · [Email](mailto:baderalq774@gmail.com) · [Website](https://bader-alq4.github.io/)
