@@ -4,7 +4,7 @@ I'm a Computing Science student at the University of Alberta, passionate about b
 
 ---
 
-#### Projects
+# Projects
 
 ## [Next Up Hoops Backend Showcase](https://github.com/Bader-alq4/next-up-showcase) 
 Demo version of my tryout platform with authentication, payments, and admin tools.  
